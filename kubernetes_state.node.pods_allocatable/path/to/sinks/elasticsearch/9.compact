@@ -1,0 +1,8 @@
+v1
+{"taskId":0,"execTimeMillis":1528283108727,"resource":"metrics2/pod","records":35}
+{"taskId":0,"execTimeMillis":1528283129926,"resource":"metricspodvol/pod","records":1}
+{"taskId":0,"execTimeMillis":1528283131119,"resource":"metricspodvol/pod","records":9}
+{"taskId":0,"execTimeMillis":1528283241951,"resource":"metricspodmem/pod","records":1}
+{"taskId":0,"execTimeMillis":1529314615655,"resource":"demo/pod","records":2}
+{"taskId":0,"execTimeMillis":1529314646132,"resource":"demo/pod","records":1}
+{"taskId":0,"execTimeMillis":1529314684582,"resource":"demo/pod","records":1}

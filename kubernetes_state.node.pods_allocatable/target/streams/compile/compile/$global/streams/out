@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/rangareddy/Desktop/kubernetes_state.node.pods_allocatable/src/main/scala/com/kloud9/k8s/metrics/PodResourceMetrics.scala:48:8: value option is not a member of org.apache.spark.sql.SparkSession.Builder[0m
+[0m[[0m[31merror[0m] [0m[0mpossible cause: maybe a semicolon is missing before `value option'?[0m
+[0m[[0m[31merror[0m] [0m[0m      .option("es.net.http.auth.user", "elastic")[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
