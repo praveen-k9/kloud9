@@ -49,7 +49,7 @@ func main() {
 			}
 
 			client := &http.Client{Transport: tr}
-			req, err := http.NewRequest("GET", "http://127.0.0.1:8888/api/v1/query?query=http_requests_total", nil)
+			req, err := http.NewRequest("GET", "http://35.188.208.66:30003/api/v1/query?query=http_requests_total", nil)
 			//req, err := http.NewRequest("GET", "http://127.0.0.1:8001/logs/containers/istio-citadel-6666869c86-gg2vq_istio-system_citadel-fec989032c4be7fbcb0c1931ce31e3dd192ff9a2081cf5908cf35af7d87678c3.log", nil)
 			
 			req.SetBasicAuth(username, passwd)
